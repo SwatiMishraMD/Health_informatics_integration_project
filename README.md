@@ -1,4 +1,4 @@
-# Health_informatics_flowhcart_and_integration_project
+# Health_informatics_flowchart_and_integration_project
 Health Informatics Project with a flowchart, integration diagram using HL7 and other standards, and deck.
 
 In this project, I have selected a clinical workflow paper(Type 2 DM) and created an algorithm flowchart, and shown the integration of this system with the healthcare setup using health tech standards like HL7.
