@@ -5,11 +5,11 @@ In this project, I have selected a clinical workflow paper(Type 2 DM) and create
 
 The algorithm for T2DM glycemic control (glucose-centric) is considered a part of the CDSS of the hospital, and integrated with other systems like EHR, lab, physicians's office, etc.
 
-The selected clinical algorithm is 
+The selected clinical algorithm is (find reference and details in project files)
 
 ![image](https://github.com/user-attachments/assets/888615ee-5bb9-4032-918d-151365d80159)
 
-Integration diagram 
+Integration diagram (using health tech standards like HL7, LOINC, SNOMED, etc)
 
 ![image](https://github.com/user-attachments/assets/bdd371e6-a391-40f7-a81a-0f9d835ed3fc)
 
