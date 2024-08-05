@@ -1,7 +1,7 @@
 # Health_informatics_flowchart_and_integration_project
-Health Informatics Project with a flowchart, integration diagram using HL7 and other standards, and deck.
+Health Informatics Project with a flowchart, integration diagram using HL7 and other standards, and deck (PDF format)
 
-In this project, I have selected a clinical workflow paper(Type 2 DM) and created an algorithm flowchart, and shown the integration of this system with the healthcare setup using health tech standards like HL7.
+A clinical workflow paper(Type 2 DM) has been selected and used to create an algorithm flowchart from it and show the integration of this system with the healthcare setup using health tech standards like HL7.
 
 The algorithm for T2DM glycemic control (glucose-centric) is considered a part of the CDSS of the hospital, and integrated with other systems like EHR, lab, physicians's office, etc.
 
