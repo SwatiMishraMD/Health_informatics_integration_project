@@ -1,4 +1,4 @@
-# Health_informatics_flowchart_and_integration_project
+# Health informatics project creating a CDSS component using a medical treatment algorithm for T2DM
 Health Informatics Project with a flowchart, integration diagram using HL7 and other standards, and deck (PDF format)
 
 A clinical workflow paper(Type 2 DM) has been selected and used to create an algorithm flowchart from it and show the integration of this system with the healthcare setup using health tech standards like HL7.
